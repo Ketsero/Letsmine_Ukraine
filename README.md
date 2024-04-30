@@ -6,7 +6,7 @@
 </head>
 <body style="font-family:san-serif">
 <header style="background-color:black; color:white; padding: 15px;">
-<a href="https://ketsero.github.io/LetsMine.ukraine/">Переклад Українською</a>
+<a href="https://ketsero.github.io/Letsmine_Ukraine/">Переклад Українською</a>
 <a href="https://ketsero.github.io/LetsMine.english/">English translation</a>
 </header>
 <main style="background-color:lightgray">
